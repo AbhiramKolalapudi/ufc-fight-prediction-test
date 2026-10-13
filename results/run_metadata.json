@@ -1,0 +1,23 @@
+{
+  "source_file": "data\\raw\\ultimate_ufc_dataset.csv",
+  "source_rows_after_period_and_label_filter": 4073,
+  "period": [
+    "2010-01-01",
+    "2019-12-31"
+  ],
+  "label_counts": {
+    "Red": 2372,
+    "Blue": 1701
+  },
+  "feature_count_before_encoding": 48,
+  "numeric_feature_count": 46,
+  "categorical_features": [
+    "r_stance",
+    "b_stance"
+  ],
+  "validation": "TimeSeriesSplit(n_splits=20), date-sorted, expanding training windows",
+  "random_seed": 42,
+  "excluded_labels": [
+    "No Contest"
+  ]
+}

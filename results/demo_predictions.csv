@@ -1,0 +1,194 @@
+date,red_fighter,blue_fighter,actual,predicted
+2019-08-10,Rogerio Bontorin,Raulian Paiva,Red,Red
+2019-08-10,Geraldo de Freitas,Chris Gutierrez,Blue,Red
+2019-08-10,Kazula Vargas,Alex Da Silva,Blue,Red
+2019-08-10,Veronica Macedo,Polyana Viana,Red,Red
+2019-08-17,Daniel Cormier,Stipe Miocic,Blue,Red
+2019-08-17,Anthony Pettis,Nate Diaz,Blue,Red
+2019-08-17,Yoel Romero,Paulo Costa,Blue,Red
+2019-08-17,Gabriel Benitez,Sodiq Yusuff,Blue,Red
+2019-08-17,Derek Brunson,Ian Heinisch,Red,Red
+2019-08-17,Devonte Smith,Khama Worthy,Blue,Red
+2019-08-17,Raphael Assuncao,Cory Sandhagen,Blue,Red
+2019-08-17,Christos Giagos,Drakkar Klose,Blue,Red
+2019-08-17,Manny Bermudez,Casey Kenney,Blue,Red
+2019-08-17,Hannah Cifers,Jodie Esquibel,Red,Red
+2019-08-17,Kyung Ho Kang,Brandon Davis,Red,Red
+2019-08-17,Sabina Mazo,Shana Dobson,Red,Red
+2019-08-31,Jessica Andrade,Zhang Weili,Blue,Red
+2019-08-31,Li Jingliang,Elizeu Dos Santos,Red,Red
+2019-08-31,Kai Kara-France,Mark De La Rosa,Red,Red
+2019-08-31,Song Kenan,Derrick,Red,Red
+2019-08-31,Wu Yanan,Mizuki Inoue,Blue,Red
+2019-08-31,Junyong Park,Anthony Hernandez,Blue,Red
+2019-08-31,Su Mudaerji,Andre Soukhamthath,Red,Red
+2019-08-31,Da Un Jung,Khadis Ibragimov,Red,Red
+2019-08-31,Damir Ismagulov,Thiago Moises,Red,Red
+2019-08-31,Heili Alateng,Danaa Batgerel,Red,Red
+2019-08-31,Karol Rosa,Lara Procopio,Red,Red
+2019-09-07,Khabib Nurmagomedov,Dustin Poirier,Red,Red
+2019-09-07,Edson Barboza,Paul Felder,Blue,Red
+2019-09-07,Islam Makhachev,Davi Ramos,Red,Red
+2019-09-07,Curtis Blaydes,Shamil Abdurakhimov,Red,Red
+2019-09-07,Mairbek Taisumov,Diego Ferreira,Blue,Red
+2019-09-07,Joanne Calderwood,Andrea Lee,Red,Red
+2019-09-07,Liana Jojua,Sarah Moras,Blue,Red
+2019-09-07,Ottman Azaitar,Teemu Packalen,Red,Red
+2019-09-07,Belal Muhammad,Takashi Sato,Red,Red
+2019-09-07,Nordine Taleb,Muslim Salikhov,Blue,Red
+2019-09-07,Omari Akhmedov,Zak Cummings,Red,Red
+2019-09-07,Don Madge,Fares Ziam,Red,Red
+2019-09-14,Donald Cerrone,Justin Gaethje,Blue,Red
+2019-09-14,Glover Teixeira,Nikita Krylov,Red,Red
+2019-09-14,Michel Pereira,Tristan Connelly,Blue,Red
+2019-09-14,Uriah Hall,Antonio Carlos Junior,Red,Red
+2019-09-14,Misha Cirkunov,Jimmy Crute,Red,Red
+2019-09-14,Marcin Tybura,Augusto Sakai,Blue,Red
+2019-09-14,Cole Smith,Miles Johns,Blue,Red
+2019-09-14,Brad Katona,Hunter Azure,Blue,Red
+2019-09-14,Chas Skelly,Jordan Griffin,Red,Red
+2019-09-14,Louis Smolka,Ryan MacDonald,Red,Red
+2019-09-14,Kyle Prepolec,Austin Hubbard,Blue,Red
+2019-09-21,Carla Esparza,Alexa Grasso,Red,Red
+2019-09-21,Irene Aldana,Vanessa Melo,Red,Red
+2019-09-21,Martin Bravo,Steven Peterson,Blue,Red
+2019-09-21,Jose Quinonez,Carlos Huachin,Red,Red
+2019-09-21,Marco Polo Reyes,Kyle Nelson,Blue,Red
+2019-09-21,Ariane Carnelossi,Angela Hill,Blue,Red
+2019-09-21,Sergio Pettis,Tyson Nam,Red,Red
+2019-09-21,Vinicius Moreira,Paul Craig,Blue,Red
+2019-09-21,Sijara Eubanks,Bethe Correia,Blue,Red
+2019-09-21,Caludio Puelles,Marcos Mariano,Red,Red
+2019-09-28,Jack Hermansson,Jared Cannonier,Blue,Red
+2019-09-28,Mark Madsen,Danilo Belluardo,Red,Red
+2019-09-28,Gunnar Nelson,Gilbert Burns,Blue,Red
+2019-09-28,Ion Cutelaba,Khalil Rountree Jr.,Red,Red
+2019-09-28,Michal Oleksiejczuk,Ovince Saint Preux,Blue,Red
+2019-09-28,Nicolas Dalby,Alex Oliveira,Red,Red
+2019-09-28,Alen Amedovski,John Phillips,Blue,Red
+2019-09-28,Alessio Di Chirico,Makhmud Muradov,Blue,Red
+2019-09-28,Siyar Bahadurzada,Ismail Naurdiev,Blue,Red
+2019-09-28,Brandon Davis,Giga Chikadze,Blue,Red
+2019-09-28,Macy Chiasson,Lina Lansberg,Blue,Red
+2019-09-28,Marc Diakiese,Lando Vannata,Red,Red
+2019-09-28,Jack Shore,Nohelin Hernandez,Red,Red
+2019-10-05,Robert Whittaker,Israel Adesanya,Blue,Red
+2019-10-05,Al Iaquinta,Dan Hooker,Blue,Red
+2019-10-05,Tai Tuivasa,Serghei Spivac,Blue,Red
+2019-10-05,Luke Jumeau,Dhiego Lima,Blue,Red
+2019-10-05,Justin Tafa,Yorgan De Castro,Blue,Red
+2019-10-05,Jake Matthews,Rostem Akman,Red,Red
+2019-10-05,Callan Potter,Maki Pitolo,Red,Red
+2019-10-05,Brad Riddell,Jamie Mullarkey,Red,Red
+2019-10-05,Megan Anderson,Zarah Fairn,Red,Red
+2019-10-05,Nadia Kassem,Ji Yeon Kim,Blue,Red
+2019-10-05,Khalid Taha,Bruno Silva,Red,Red
+2019-10-12,Joanna Jedrzejczyk,Michelle Waterson,Red,Red
+2019-10-12,Cub Swanson,Kron Gracie,Red,Red
+2019-10-12,Niko Price,James Vick,Red,Red
+2019-10-12,Mackenzie Dern,Amanda Ribas,Blue,Red
+2019-10-12,Matt Frevola,Luis Pena,Red,Red
+2019-10-12,Eryk Anders,Gerald Meerschaert,Red,Red
+2019-10-12,Ryan Spann,Devin Clark,Red,Red
+2019-10-12,Mike Davis,Thomas Gifford,Red,Red
+2019-10-12,Max Griffin,Alex Morono,Blue,Red
+2019-10-12,Deiveson Figueiredo,Tim Elliott,Red,Red
+2019-10-12,Marlon Vera,Andre Ewell,Red,Red
+2019-10-12,Miguel Baeza,Hector Aldana,Red,Red
+2019-10-12,Marvin Vettori,Andrew Sanchez,Red,Red
+2019-10-12,JJ Aldrich,Lauren Mueller,Red,Red
+2019-10-18,Yair Rodriguez,Jeremy Stephens,Red,Red
+2019-10-18,Dominick Reyes,Chris Weidman,Red,Red
+2019-10-18,Joe Lauzon,Jonathan Pearce,Red,Red
+2019-10-18,Maycee Barber,Gillian Robertson,Red,Red
+2019-10-18,Deron Winn,Darren Stewart,Blue,Red
+2019-10-18,Charles Rosa,Manny Bermudez,Red,Red
+2019-10-18,Molly McCann,Diana Belbita,Red,Red
+2019-10-18,Kyle Bochniak,Sean Woodson,Blue,Red
+2019-10-18,Randy Costa,Boston Salmon,Red,Red
+2019-10-18,Court McGee,Sean Brady,Blue,Red
+2019-10-18,Brendan Allen,Kevin Holland,Red,Red
+2019-10-18,Daniel Spitz,Tanner Boser,Blue,Red
+2019-10-26,Demian Maia,Ben Askren,Red,Red
+2019-10-26,Michael Johnson,Stevie Ray,Blue,Red
+2019-10-26,Frank Camacho,Beneil Dariush,Blue,Red
+2019-10-26,Ciryl Gane,Don'tale Mayes,Red,Red
+2019-10-26,Muslim Salikhov,Laureano Staropoli,Red,Red
+2019-10-26,Randa Markos,Ashley Yoder,Red,Red
+2019-10-26,Alex White,Rafael Fiziev,Blue,Red
+2019-10-26,Enrique Barzola,Movsar Evloev,Blue,Red
+2019-10-26,Maurice Greene,Sergei Pavlovich,Blue,Red
+2019-10-26,Loma Lookboonmee,Alexandra Albu,Red,Red
+2019-10-26,Raphael Pessoa Nunes,Jeff Hughes,Red,Red
+2019-11-02,Jorge Masvidal,Nate Diaz,Red,Red
+2019-11-02,Kelvin Gastelum,Darren Till,Blue,Red
+2019-11-02,Stephen Thompson,Vicente Luque,Red,Red
+2019-11-02,Derrick Lewis,Blagoy Ivanov,Red,Red
+2019-11-02,Kevin Lee,Gregor Gillespie,Red,Red
+2019-11-02,Corey Anderson,Johnny Walker,Red,Red
+2019-11-02,Shane Burgos,Makwan Amirkhani,Red,Red
+2019-11-02,Brad Tavares,Edmen Shahbazyan,Blue,Red
+2019-11-02,Andrei Arlovski,Jairzinho Rozenstruik,Blue,Red
+2019-11-02,Katlyn Chookagian,Jennifer Maia,Red,Red
+2019-11-02,Lyman Good,Chance Rencountre,Red,Red
+2019-11-02,Julio Arce,Hakeem Dawodu,Blue,Red
+2019-11-09,Zabit Magomedsharipov,Calvin Kattar,Red,Red
+2019-11-09,Alekander Volkov,Greg Hardy,Red,Red
+2019-11-09,Zelim Imadaev,Danny Roberts,Blue,Red
+2019-11-09,Khadis Ibragimov,Ed Herman,Blue,Red
+2019-11-09,Ramazan Emeev,Rocco Martin,Blue,Red
+2019-11-09,Shamil Gamzatov,Klidson Abreu,Red,Red
+2019-11-09,Magomed Ankalaev,Dalcha Lungiambula,Red,Red
+2019-11-09,Rustam Khabilov,Sergey Khandozhko,Red,Red
+2019-11-09,Roman Kopylov,Karl Roberson,Blue,Red
+2019-11-09,Abubakar Nurmagomedov,David Zawada,Blue,Red
+2019-11-09,Alexander Yakovlev,Roosevelt Roberts,Blue,Red
+2019-11-09,Jessica-Rose Clark,Pannie Kianzad,Blue,Red
+2019-11-09,Grigorii Popov,Davey Grant,Blue,Red
+2019-11-16,Jan Blachowicz,Jacare Souza,Red,Red
+2019-11-16,Charles Oliveira,Jared Gordon,Red,Red
+2019-11-16,Antonio Arroyo,Andre Muniz,Blue,Red
+2019-11-16,Markus Perez,Wellington Turman,Blue,Red
+2019-11-16,Sergio Moraes,James Krause,Blue,Red
+2019-11-16,Ricardo Ramos,Eduardo Garagorri,Red,Red
+2019-11-16,Francisco Trinaldo,Bobby Green,Red,Red
+2019-11-16,Warlley Alves,Randy Brown,Blue,Red
+2019-11-16,Douglas Silva de Andrade,Renan Barao,Red,Red
+2019-11-16,Ariane Lipski,Isabela De Pauda,Red,Red
+2019-11-16,Vanessa Melo,Tracy Cortez,Blue,Red
+2019-12-07,Alistair Overeem,Jairzinho Rozenstruik,Blue,Red
+2019-12-07,Stefan Struve,Ben Rothwell,Blue,Red
+2019-12-07,Aspen Ladd,Yana Kunitskaya,Red,Red
+2019-12-07,Rob Font,Ricky Simon,Red,Red
+2019-12-07,Thiago Alves,Tim Means,Blue,Red
+2019-12-07,Billy Quarantillo,Jacob Kilburn,Red,Red
+2019-12-07,Bryce Mitchell,Matt Sayles,Red,Red
+2019-12-07,Joe Solecki,Matt Wiman,Red,Red
+2019-12-07,Mallory Martin,Virna Jandiroba,Red,Red
+2019-12-07,Makhmud Muradov,Trevor Smith,Red,Red
+2019-12-14,Kamaru Usman,Colby Covington,Red,Red
+2019-12-14,Max Holloway,Alexander Volkanovski,Blue,Red
+2019-12-14,Amanda Nunes,Germaine de Randamie,Red,Red
+2019-12-14,Marlon Moraes,Jose Aldo,Red,Red
+2019-12-14,Peter Yan,Urijah Faber,Red,Red
+2019-12-14,Geoff Neal,Mike Perry,Red,Red
+2019-12-14,Ketlen Vieira,Irene Aldana,Blue,Red
+2019-12-14,Ian Heinisch,Omari Akhmedov,Blue,Red
+2019-12-14,Matt Brown,Ben Saunders,Red,Red
+2019-12-14,Chase Hooper,Daniel Teymur,Red,Red
+2019-12-14,Brandon Moreno,Kai Kara France,Red,Red
+2019-12-14,Jessica Eye,Viviane Araujo,Red,Red
+2019-12-14,Punahele Soriano,Oskar Piechota,Red,Red
+2019-12-21,Frankie Edgar,Chan Sung Jung,Blue,Red
+2019-12-21,Volkan Oezdemir,Aleksandar Rakic,Red,Red
+2019-12-21,Dooho Choi,Charles Jourdain,Blue,Red
+2019-12-21,Da Un Jung,Mike Rodriguez,Red,Red
+2019-12-21, Jun Yong Park,Marc-Andre Barriault,Red,Red
+2019-12-21,Kyung Ho Kang,Liu Pingyuan,Red,Red
+2019-12-21,Ciryl Gane,Tanner Boser,Red,Red
+2019-12-21,Seungwoo Choi,Suman Mokhtarian,Red,Red
+2019-12-21,Dong Hyun Ma,Omar Antonio Morales Ferrer,Blue,Red
+2019-12-21,Alexandre Pantoja,Matt Schnell,Red,Red
+2019-12-21,Raoni Barcelos,Said Nurmagomedov,Red,Red
+2019-12-21,Miranda Granger,Amanda Lemos,Blue,Red
+2019-12-21,Heili Alateng,Ryan Benoit,Red,Red
